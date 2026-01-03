@@ -1,7 +1,6 @@
 # Viranda-Store-Sales-Data-Dashboard-using-Excel
----
 
-# Vrinda Store Annual Sales Dashboard
+---
 
 ## About the Project
 
